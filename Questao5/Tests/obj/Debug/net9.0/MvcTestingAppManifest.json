@@ -1,0 +1,6 @@
+{
+  "Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/carloseduardomagalhaes\/Projects\/TesteAMcom\/Questao5\/Api",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/carloseduardomagalhaes\/Projects\/TesteAMcom\/Questao5\/Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/carloseduardomagalhaes\/Projects\/TesteAMcom\/Questao5\/Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/carloseduardomagalhaes\/Projects\/TesteAMcom\/Questao5\/Infrastructure"
+}

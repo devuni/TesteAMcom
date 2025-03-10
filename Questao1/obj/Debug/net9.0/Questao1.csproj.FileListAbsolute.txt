@@ -1,0 +1,14 @@
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/bin/Debug/net9.0/Questao1
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/bin/Debug/net9.0/Questao1.deps.json
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/bin/Debug/net9.0/Questao1.runtimeconfig.json
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/bin/Debug/net9.0/Questao1.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/bin/Debug/net9.0/Questao1.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/Questao1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/Questao1.AssemblyInfoInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/Questao1.AssemblyInfo.cs
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/Questao1.csproj.CoreCompileInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/Questao1.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/refint/Questao1.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/Questao1.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/Questao1.genruntimeconfig.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao1/obj/Debug/net9.0/ref/Questao1.dll

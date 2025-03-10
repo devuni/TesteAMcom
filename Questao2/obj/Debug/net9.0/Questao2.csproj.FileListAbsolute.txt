@@ -1,0 +1,14 @@
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/Questao2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/Questao2.AssemblyInfoInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/Questao2.AssemblyInfo.cs
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/Questao2.csproj.CoreCompileInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/bin/Debug/net9.0/Questao2
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/bin/Debug/net9.0/Questao2.deps.json
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/bin/Debug/net9.0/Questao2.runtimeconfig.json
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/bin/Debug/net9.0/Questao2.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/bin/Debug/net9.0/Questao2.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/Questao2.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/refint/Questao2.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/Questao2.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/Questao2.genruntimeconfig.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao2/obj/Debug/net9.0/ref/Questao2.dll

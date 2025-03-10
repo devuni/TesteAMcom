@@ -1,0 +1,17 @@
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/bin/Debug/net9.0/Application.deps.json
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/bin/Debug/net9.0/Application.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/bin/Debug/net9.0/Application.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/bin/Debug/net9.0/Domain.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/bin/Debug/net9.0/Infrastructure.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/bin/Debug/net9.0/Domain.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/bin/Debug/net9.0/Infrastructure.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Applicat.44B5EDA2.Up2Date
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Application.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/refint/Application.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/Application.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Application/obj/Debug/net9.0/ref/Application.dll

@@ -1,0 +1,15 @@
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/bin/Debug/net9.0/Domain.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/bin/Debug/net9.0/Domain.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll

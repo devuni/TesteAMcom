@@ -1,0 +1,11 @@
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/bin/Debug/net9.0/Domain.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/Domain.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/carloseduardomagalhaes/Projects/TesteAMcom/Questao5/Domain/obj/Debug/net9.0/ref/Domain.dll
